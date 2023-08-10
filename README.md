@@ -8,7 +8,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [Gender Data Analytics](#Gender-Data-Analysis)
+  - [Gender Data Analytics](##Gender-Data-Analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
