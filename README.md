@@ -8,10 +8,13 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [Gender Data Analytics](#german-cars-data-analysis)
-  - [Adidas US Sales Data Analysis](#adidas-us-sales-data-analysis)
-  - [Real Estate US SQL and Power BI Analysis](#real-estate-us-sql-and-power-bi-analysis)
+  - [Gender Data Analytics](#gender-data-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 
+## Portfolio Projects
+
+### Gender Data Analytics
+...
+[Read more](portfolio-projects/german-cars-data-analysis/README.md)
