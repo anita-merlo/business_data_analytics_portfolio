@@ -16,5 +16,10 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 ## Portfolio Projects
 
 ### Gender Data Analytics
+
+## Certificates
 ...
-[Read more](portfolio-projects/german-cars-data-analysis/README.md)
+
+## Contacts
+If you have any questions or collaborate, please contact me at [aanitamerlo@gmail.com](mailto:aanitamerlo@gmail.com) and [Linkedin](https://www.linkedin.com/in/ana-claudia-merlo-981345160/). 
+
