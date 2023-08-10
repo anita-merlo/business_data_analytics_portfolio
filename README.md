@@ -21,5 +21,8 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 ...
 
 ## Contacts
-If you have any questions or collaborate, please contact me at [aanitamerlo@gmail.com](mailto:aanitamerlo@gmail.com) and [Linkedin](https://www.linkedin.com/in/ana-claudia-merlo-981345160/). 
+If you have any questions or would like to collaborate, feel free to reach out to me:
+
+📧 Email: [aanitamerlo@gmail.com](mailto:aanitamerlo@gmail.com)
+📱 LinkedIn: [Ana Claudia Merlo](https://www.linkedin.com/in/ana-claudia-merlo-981345160/)
 
