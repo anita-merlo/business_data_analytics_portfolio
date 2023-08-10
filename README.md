@@ -5,3 +5,13 @@ Greetings! My name is Ana Merlo. I am a dynamic and data-driven marketer with ov
 
 For more information, please check my [Resume](AnaMerloResume.pdf)
 
+## Table of Contents
+- [About Me](#about-me)
+- [Portfolio Projects](#portfolio-projects)
+  - [Gender Data Analytics](#german-cars-data-analysis)
+  - [Adidas US Sales Data Analysis](#adidas-us-sales-data-analysis)
+  - [Real Estate US SQL and Power BI Analysis](#real-estate-us-sql-and-power-bi-analysis)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
+
+
