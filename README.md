@@ -19,7 +19,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - **Description:** The goal is to gather gender data indicators across all countries, identify gaps and cover some areas of interest like education, health, labor, and demographic indicators.
 - **Dataset:** open data from the World Bank Data Bank, the dataset has national-level statistics for more than 190 countries from 2012-2020 at an annual level and has information with a gender lens about 74 indicators across six categories.
 - **Skills:** Python, Pandas, NumPy, Matplotlib, Data Analysis
-- **Report:**  [Link to Gender Data Analytics Folder](gender data analytics)
+- **Report:**  [Link to Gender Data Analytics Folder](#gender data analytics)
 
 
 
