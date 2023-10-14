@@ -22,10 +22,6 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - **Report:** [Link to Gender Data Analytics Folder](https://github.com/anita-merlo/business_data_analytics_portfolio/tree/391bfef23f8c8614dc95249998e0521d28f0b052/gender%20data%20analytics)
 
 
-
-## Certificates
-...
-
 ## Contacts
 If you have any questions or would like to collaborate, feel free to reach out to me:
 
