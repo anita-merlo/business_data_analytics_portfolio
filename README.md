@@ -23,7 +23,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 
 ### Employee Performance Analytics Dashboard
 - **Description:** In a corporate landscape where strategic decision-making drives success, understanding employee performance, attrition rates, and internal satisfaction is crucial. This project centered around creating an intuitive, data-driven dashboard that highlights critical metrics affecting company health and employee retention.
-- **Dataset:** The data encompassed various employee metrics, including attrition rates, internal survey scores, promotion patterns, and career longevity, extracted from the company's internal records.
+- **Dataset:** The data encompassed various employee metrics, including attrition rates, internal survey scores, promotion patterns, and career longevity.
 - **Skills:** Tableau, Data Storytelling, Data visualization
 - **Outcome & Skills Demonstrated:**
 Successfully synthesized complex datasets into an intuitive dashboard, providing insights into employee performance metrics and attrition rates.
