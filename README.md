@@ -21,6 +21,15 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - **Skills:** Python, Pandas, NumPy, Matplotlib, Data Analysis
 - **Report:** [Link to Gender Data Analytics Folder](https://github.com/anita-merlo/business_data_analytics_portfolio/tree/391bfef23f8c8614dc95249998e0521d28f0b052/gender%20data%20analytics)
 
+### Employee Performance Analytics Dashboard
+- **Description:** In a corporate landscape where strategic decision-making drives success, understanding employee performance, attrition rates, and internal satisfaction is crucial. This project centered around creating an intuitive, data-driven dashboard that highlights critical metrics affecting company health and employee retention.
+- **Dataset:** The data encompassed various employee metrics, including attrition rates, internal survey scores, promotion patterns, and career longevity, extracted from the company's internal records.
+- **Skills:** Tableau, Data Storytelling, Data visualization
+- **Outcome & Skills Demonstrated:**
+Successfully synthesized complex datasets into an intuitive dashboard, providing insights into employee performance metrics and attrition rates.
+Enabled stakeholders to identify high-risk departments and roles, understand employee satisfaction levels, and observe promotion trends.
+- **Report:** [Link to Tableau Public](https://public.tableau.com/views/HRDashboard_16980286747060/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
+
 
 ## Contacts
 If you have any questions or would like to collaborate, feel free to reach out to me:
