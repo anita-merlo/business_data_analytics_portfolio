@@ -9,6 +9,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Gender Data Analytics](#gender-data-analytics)
+  - [Employee Performance Analytics Dashboard](#Employee-Performance-Analytics-Dashboard)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
