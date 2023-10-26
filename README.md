@@ -33,8 +33,8 @@ Enabled stakeholders to identify high-risk departments and roles, understand emp
 - **Report:** [Link to Tableau Public](https://public.tableau.com/views/HRDashboard_16980286747060/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ### Airbnb SQL Project
-- **Description:** Summarize and understand Airbnb Data using SQL calls.
-- **Dataset:** open data from Airbnb Australia
+- **Description:** Summarize and understand Airbnb Data using SQL.
+- **Dataset:** Open data from Airbnb Australia
 - **Skills:** SQL
 - **Report:** [Link to Airbnb SQL Folder](https://github.com/anita-merlo/business_data_analytics_portfolio/blob/5b3204bb881c14f2ad9a40834a397e7438a4b12b/SQL_AirbnbData.ipynb)
 
