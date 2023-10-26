@@ -36,7 +36,7 @@ Enabled stakeholders to identify high-risk departments and roles, understand emp
 - **Description:** Summarize and understand Airbnb Data using SQL calls.
 - **Dataset:** open data from Airbnb Australia
 - **Skills:** SQL
-- **Report:** [Link to Airbnb SQLFolder](https://github.com/anita-merlo/business_data_analytics_portfolio/blob/5b3204bb881c14f2ad9a40834a397e7438a4b12b/SQL_AirbnbData.ipynb)
+- **Report:** [Link to Airbnb SQL Folder](https://github.com/anita-merlo/business_data_analytics_portfolio/blob/5b3204bb881c14f2ad9a40834a397e7438a4b12b/SQL_AirbnbData.ipynb)
 
 
 ## Contacts
