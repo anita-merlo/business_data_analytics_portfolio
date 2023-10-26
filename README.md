@@ -10,7 +10,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - [Portfolio Projects](#portfolio-projects)
   - [Gender Data Analytics](#gender-data-analytics)
   - [Employee Performance Analytics Dashboard](#Employee-Performance-Analytics-Dashboard)
-  - [Summarize Airbnb Data with SQL](#Airbnb_SQL_Project)
+  - [Airbnb SQL Project](#Airbnb_SQL_Project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
