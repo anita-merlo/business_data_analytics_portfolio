@@ -10,6 +10,7 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 - [Portfolio Projects](#portfolio-projects)
   - [Gender Data Analytics](#gender-data-analytics)
   - [Employee Performance Analytics Dashboard](#Employee-Performance-Analytics-Dashboard)
+  - [Summarize Airbnb Data with SQL](#Airbnb_SQL_Project)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -30,6 +31,12 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
 Successfully synthesized complex datasets into an intuitive dashboard, providing insights into employee performance metrics and attrition rates.
 Enabled stakeholders to identify high-risk departments and roles, understand employee satisfaction levels, and observe promotion trends.
 - **Report:** [Link to Tableau Public](https://public.tableau.com/views/HRDashboard_16980286747060/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
+
+### Airbnb SQL Project
+- **Description:** Summarize and understand Airbnb Data using SQL calls.
+- **Dataset:** open data from Airbnb Australia
+- **Skills:** SQL
+- **Report:** [Link to Airbnb SQLFolder](https://github.com/anita-merlo/business_data_analytics_portfolio/blob/5b3204bb881c14f2ad9a40834a397e7438a4b12b/SQL_AirbnbData.ipynb)
 
 
 ## Contacts
