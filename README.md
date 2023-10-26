@@ -11,7 +11,6 @@ For more information, please check my [Resume](AnaMerloResume.pdf)
   - [Gender Data Analytics](#gender-data-analytics)
   - [Employee Performance Analytics Dashboard](#Employee-Performance-Analytics-Dashboard)
   - [Airbnb SQL Project](#Airbnb_SQL_Project)
-- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 
